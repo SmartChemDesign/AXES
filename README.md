@@ -8,4 +8,4 @@ Citation
 If you use this code in your research, please cite this paper: "From Database to Prediction: Machine Learning for 5-f Elements Coordination Using Actinide X-ray Experimental Spectra (AXES) Collection"
 
 License
-[MIT](/AXES/License)
+[MIT](/AXES/LICENSE)
