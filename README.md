@@ -1,6 +1,7 @@
 # AXES
 Actinide X-ray experimental spectra database
-The database contains information on the actinide experimental XAS spectra. The database can be used for comparative analysis of calculated or/and experimental results, extracting structural information or as a training dataset for the machine learning techniques.  
+The database contains information on the actinide experimental XAS spectra. The database can be used for comparative analysis of calculated or/and experimental results, extracting structural information or as a training dataset for the machine learning techniques.
+
 
 
 
