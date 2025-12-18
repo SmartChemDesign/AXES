@@ -10,7 +10,7 @@ The database contains information on the actinide experimental XAS spectra. The 
 
 If you use this code in your research, please cite this paper: "From Database to Prediction: Machine Learning for 5-f Elements Coordination Using Actinide X-ray Experimental Spectra (AXES) Collection"
 
-doi: 10.1063/5.0302609
+doi: https://doi.org/10.1063/5.0302609
 
 License
 [MIT](https://github.com/SmartChemDesign/AXES/blob/main/LICENSE)
