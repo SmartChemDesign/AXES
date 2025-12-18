@@ -4,7 +4,7 @@ The database contains information on the actinide experimental XAS spectra. The 
 
 **Database structure**
 
-.csv file contains the following information about DB compounds: AXESid (same as folder name in DB), composition, absorption edge, trivial name, spectrum source, structure source. The spectral post-edge normalization and normalization by maximum are indicated in the spectrum name as "post-edge" and "maximum", respectively, the absence of these labels is the indicator of the raw spectra. Structure source is shown either as doi or the id from the Materials project database.
+.csv file contains the following information about DB compounds: AXESid (same as folder name in DB), composition, absorption edge, trivial name, spectrum source, structure source. The spectral post-edge normalization and normalization by maximum are indicated in the spectrum name as "post-edge" and "maximum", respectively, the absence of these labels is the indicator of the raw spectra. Besides that, non-aligned spectra have corresponding labels, otherwise normalized spectra are aligned. Structure source is shown either as doi or the id from the Materials project database.
 
 **Citation**
 
